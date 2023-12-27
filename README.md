@@ -6,3 +6,4 @@ Simple Maven Project
 testing1
 testing2
 testing2.1
+testing2.2
